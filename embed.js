@@ -1,6 +1,6 @@
 // embed.js
 function loadStrimmChannel() {
-    var strimmUrl = "https://www.strimm.com/channel-url"; // Replace with your Strimm channel URL
+    var strimmUrl = "strimm.com/stenovids/stenovids"; // Replace with your Strimm channel URL
     var iframe = document.createElement("iframe");
     iframe.src = strimmUrl;
     iframe.width = "800";
